@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{257FC27C-8D9F-4ACC-9ACB-BE6B7BCC6770}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ESD__Project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="ESD_Project.http" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="models/Booking.cs" Line="1" Column="1" />
+      <File FileName="controllers/BookingsController.cs" Line="5" Column="1" />
+      <File FileName="models/BookingContext.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Docker" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ESD_Project" expanded="True">
+            <Node name="ESD_Project" expanded="True" selected="True">
+              <Node name="controllers" expanded="True" />
+              <Node name="models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

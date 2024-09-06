@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  web:
+    image: esd_project
+    ports:
+      - "8081:80"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=826d0c80849f;User Id=sa;Password=NadaMai5;
+  db:
+    image: esd_project_container
+    ports:
+      - "8081:80"
+    environment:
+      - SA_PASSWORD=NadaMai5
+      - ACCEPT_EULA=Y

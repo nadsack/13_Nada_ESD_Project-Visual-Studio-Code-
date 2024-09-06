@@ -1,0 +1,6 @@
+@ESD_Project_HostAddress = http://localhost:8081
+
+GET {{ESD_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
